@@ -1,7 +1,7 @@
 
-#include<string.h>
+#include<cstring>
 #include<iostream>
-#include<stdlib.h>
+#include<cstdlib>
 
 
 /**player rpg
